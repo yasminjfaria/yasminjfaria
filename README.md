@@ -1,5 +1,6 @@
 ### Olá! Seja Bem-Vindo(a) ao meu perfil!
 
+- Curitiba, PR
 -  Engenharia de Software | Universidade Positivo 
 -  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
