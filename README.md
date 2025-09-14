@@ -1,10 +1,7 @@
 ### Olá! Seja Bem-Vindo(a) ao meu perfil!
 
--  Meu nome é Yasmin Faria
--  Tenho interesse em ser Engenheira de Software
--  Estou me desenvolvendo na linguagem Java Script
+-  Engenharia de Software | Universidade Positivo 
 -  Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
--  @_yaazw on Instagram
 
  ![](https://media.tenor.com/0aCMR4zGhyYAAAAC/death-the.gif)
 
