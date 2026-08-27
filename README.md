@@ -1,7 +1,7 @@
 ### Olá! Seja Bem-Vindo(a) ao meu perfil!
 
 - Curitiba, PR
-- Engenharia de Software | Universidade Positivo 
+- Engenharia de Software | PUCPR
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 🛠️ Minhas principais ferramentas e tecnologias:
